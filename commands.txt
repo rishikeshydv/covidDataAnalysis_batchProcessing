@@ -1,0 +1,3 @@
+#moving file from local to hdfs
+hdfs fs -mkdir container_1
+hdfs fs -put countries-aggregated.csv /user/User/container_1

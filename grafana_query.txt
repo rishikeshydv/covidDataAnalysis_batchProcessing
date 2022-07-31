@@ -1,0 +1,2 @@
+Query for Grafana:
+SELECT Country, Total_Count FROM covid_table;
